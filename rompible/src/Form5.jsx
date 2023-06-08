@@ -1,4 +1,4 @@
-const Form2 = () => {
+const Form5 = () => {
     return (
         <div>
             <form action="">
@@ -10,4 +10,4 @@ const Form2 = () => {
     )
 }
 
-export default Form2;
+export default Form5;
